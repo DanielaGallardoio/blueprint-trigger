@@ -1,9 +1,0 @@
-{
-  "name": "blueprint-trigger",
-  "version": "1.1.0",
-  "description": "Captures and clarifies product requests before any design work begins — the Trigger step of the Blueprint Hub methodology. / Captura y clarifica peticiones de producto antes de abrir Figma — el paso Trigger de la metodología Blueprint Hub.",
-  "author": {
-    "name": "Dani Gallardo"
-  },
-  "keywords": ["design", "product", "ux", "design-system", "blueprint", "product-management", "requirements"]
-}
