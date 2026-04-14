@@ -48,6 +48,20 @@ Say any of these to activate the skill:
 
 > "trigger", "blueprint", "capturar petición", "ficha de solicitud", "interpretar encargo", "new component request", "I need to document a design request"
 
+### Installation in Cowork
+
+To install Blueprint Trigger as a Cowork plugin:
+
+1. Add this repository as a marketplace:
+```
+/plugin marketplace add DanielaGallardoio/blueprint-trigger
+```
+
+2. Install the plugin:
+```
+/plugin install blueprint-trigger
+```
+
 ---
 
 ## Español
@@ -86,6 +100,20 @@ Activa la skill y describe tu petición entrante. La skill hará:
 Di cualquiera de estas para activar la skill:
 
 > "trigger", "blueprint", "capturar petición", "ficha de solicitud", "interpretar encargo", "nueva petición de componente", "quiero documentar un encargo"
+
+### Instalación en Cowork
+
+Para instalar Blueprint Trigger como plugin de Cowork:
+
+1. Añade este repositorio como marketplace:
+```
+/plugin marketplace add DanielaGallardoio/blueprint-trigger
+```
+
+2. Instala el plugin:
+```
+/plugin install blueprint-trigger
+```
 
 ---
 
