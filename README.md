@@ -50,17 +50,17 @@ Say any of these to activate the skill:
 
 ### Installation in Cowork
 
-To install Blueprint Trigger as a Cowork plugin:
+> ⚠️ Updated April 2026: The previous slash commands no longer work. Here is the current process, tested and verified.
 
-1. Add this repository as a marketplace:
-```
-/plugin marketplace add DanielaGallardoio/blueprint-trigger
-```
+1. In the Cowork chat, click the **+** icon and go to **Plugins → Add plugin**.
+2. The Directory opens. Go to the **Personal** tab → **Local loads** → click the **+** button.
+3. Select **Add marketplace**.
+4. A modal will appear asking for a URL. Type exactly this: `DanielaGallardoio/blueprint-trigger`
+5. Click **Sync**. Cowork will load all available plugins from this repository.
+6. Find **Blueprint Trigger** in the list and click **+**.
+7. When the icon changes to a gear wheel, the plugin is installed and ready to use.
 
-2. Install the plugin:
-```
-/plugin install blueprint-trigger
-```
+No terminal. No commands. Seven steps and you're in.
 
 ---
 
@@ -103,17 +103,17 @@ Di cualquiera de estas para activar la skill:
 
 ### Instalación en Cowork
 
-Para instalar Blueprint Trigger como plugin de Cowork:
+> ⚠️ Actualizado abril 2026: Los comandos anteriores ya no funcionan. Este es el proceso actual, probado y verificado.
 
-1. Añade este repositorio como marketplace:
-```
-/plugin marketplace add DanielaGallardoio/blueprint-trigger
-```
+1. En el chat de Cowork, haz clic en el icono **+** y ve a **Plugins → Añadir plugin**.
+2. Se abre el Directorio. Ve a la pestaña **Personal** → **Cargas locales** → haz clic en el **+**.
+3. Selecciona **Añadir marketplace**.
+4. Aparece un modal que pide una URL. Escribe exactamente esto: `DanielaGallardoio/blueprint-trigger`
+5. Haz clic en **Sincronizar**. Cowork cargará todos los plugins disponibles de este repositorio.
+6. Busca **Blueprint Trigger** en la lista y haz clic en **+**.
+7. Cuando el icono cambie a una ruedita, el plugin está instalado y listo para usar.
 
-2. Instala el plugin:
-```
-/plugin install blueprint-trigger
-```
+Sin terminal. Sin comandos. Siete pasos y ya estás dentro.
 
 ---
 
