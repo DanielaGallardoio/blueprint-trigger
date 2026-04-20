@@ -1,0 +1,41 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dani-gallardo-skills",
+  "description": "Design skills and Blueprint Hub methodology by Dani Gallardo. / Skills de diseño y metodología Blueprint Hub por Dani Gallardo.",
+  "owner": {
+    "name": "Dani Gallardo",
+    "email": "dgallardo@goalsystems.com"
+  },
+  "metadata": {
+    "description": "Design skills and Blueprint Hub methodology by Dani Gallardo.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "blueprint-trigger",
+      "description": "Captures and clarifies product requests before any design work begins — the Trigger step of the Blueprint Hub methodology.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Dani Gallardo"
+      },
+      "homepage": "https://github.com/DanielaGallardoio/blueprint-trigger",
+      "repository": "https://github.com/DanielaGallardoio/blueprint-trigger",
+      "license": "MIT",
+      "category": "design",
+      "keywords": [
+        "design",
+        "product",
+        "ux",
+        "design-system",
+        "blueprint",
+        "product-management",
+        "requirements"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/blueprint-trigger"
+      ]
+    }
+  ]
+}
